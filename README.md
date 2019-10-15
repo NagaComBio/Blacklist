@@ -69,7 +69,7 @@ The blacklist is built on a per-chromosome or contig level. The following exampl
 
 # Historical blacklist information
 (these lists are also available in the lists/ folder)
-- HUMAN (hg19/GRCh38): http://mitra.stanford.edu/kundaje/akundaje/release/blacklists/hg38-human/hg38.blacklist.bed.gz
+- HUMAN (hg38/GRCh38): http://mitra.stanford.edu/kundaje/akundaje/release/blacklists/hg38-human/hg38.blacklist.bed.gz
    ENCODE portal link: https://www.encodeproject.org/annotations/ENCSR636HFF/ (Select GRCh38)
 - HUMAN (hg19/GRCh37): ENCODE portal link: https://www.encodeproject.org/annotations/ENCSR636HFF/ (Select hg19)
    UCSC Genome browser track http://genome.ucsc.edu/cgi-bin/hgFileUi?db=hg19&g=wgEncodeMapability
